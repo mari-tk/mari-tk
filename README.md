@@ -6,7 +6,12 @@
 - 🤔 I’m looking for a Frontend/Full-Stack job
 - 💬 Ask me about anything
 - 📫 How to reach me: maria.tk.work@gmail.com
-- 😄 Pronouns: she/they
+- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: My last name is hard to spell
-- 💻 Recent projects: [Spaceman](https://mari-tk.github.io/Spaceman-game/), [Can I share my screen?](https://can-i-share-my-screen.herokuapp.com/), [Chatrix](https://chatrix.herokuapp.com/), [Microtasks](https://microtasks.herokuapp.com/)
+- 💻 Recent projects:
+  - Microtasks [Demo](https://microtasks.herokuapp.com/), [Repo](https://github.com/mari-tk/Microtasks),
+  - Spaceman [Demo](https://mari-tk.github.io/Spaceman-game/), [Repo](https://github.com/mari-tk/Spaceman),
+  - Chatrix [Demo](https://chatrix.herokuapp.com/), [Repo](https://github.com/mari-tk/Chatrix),
+  - Can I share my screen? [Demo](https://can-i-share-my-screen.herokuapp.com/), [Repo](https://github.com/Tri-Coders-SMV/can-i-share-my-screen),
 - Born in 🇺🇦❤️
+  
