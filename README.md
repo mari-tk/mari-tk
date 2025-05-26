@@ -10,7 +10,7 @@
 - ⚡ Fun fact: My last name is hard to spell
 - 💻 Recent projects:
   - Microtasks [Demo](https://microtasks.herokuapp.com/), [Repo](https://github.com/mari-tk/Microtasks),
-  - Spaceman [Demo](https://mari-tk.github.io/Spaceman-game/), [Repo](https://github.com/mari-tk/Spaceman),
+  - Spaceman [Demo](https://mari-tk.github.io/Spaceman-game/), [Repo](https://github.com/mari-tk/Spaceman-game),
   - Chatrix [Demo](https://chatrix.herokuapp.com/), [Repo](https://github.com/mari-tk/Chatrix),
   - Can I share my screen? [Demo](https://can-i-share-my-screen.herokuapp.com/), [Repo](https://github.com/Tri-Coders-SMV/can-i-share-my-screen),
 - Born in 🇺🇦❤️
